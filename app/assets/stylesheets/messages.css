@@ -1,0 +1,61 @@
+.poppo{
+  display: flex;
+}
+.sushi{
+  width: 300px;
+  background-color: #253141;
+  height: 100vh;
+}
+.tenpura{
+  width: calc(100vw - 300px);
+  background-color: #ffffff;
+  height: 100vh;
+}
+.bulbasaur{
+  height: 100px;
+  background-color: #ffffff;
+  padding: 0 40px;
+}
+.venusaur{
+  height: 90px;
+  background-color: #dddddd;
+  padding: 20px 40px;
+}
+.ivysaur{
+  height: calc(100vh - 90px - 100px);
+  background-color: #fafafa;
+  padding: 46px 40px 0;
+}
+.charmander{
+  height: 100px;
+  background-color: #253141;
+  padding: 0 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.charmeleon{
+  height: calc(100vh - 100px);
+  background-color: #2f3e51;
+  padding: 0 20px;
+  overflow: scroll;
+}
+.charizard a{
+  font-size: 16px;
+  color: #fafafa;
+  text-decoration: none;
+}
+.squirtle a{
+  font-size: 10px;
+  color: deepskyblue;
+  padding: 14px;
+  border: lightblue solid 1px;
+  text-decoration: none;
+}
+.wartortle{
+  padding: 20px 0 40px;
+}
+.blastoise a{
+  text-decoration: none;
+  color: white;
+}
